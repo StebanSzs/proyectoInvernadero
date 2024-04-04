@@ -29,5 +29,5 @@ Este proyecto fue realizado por:
 
 El repositorio está organizado de la siguiente manera:
 
-- `proyextoDigitales.ino/`: Contiene el código fuente del proyecto.
+- `proyectoDigitales.ino/`: Contiene el código fuente del proyecto.
 - `informe.pdf`: Documentación detallada del proyecto.
