@@ -5,10 +5,10 @@
 
 #define DHTPIN 4
 #define DHTTYPE DHT11   // DHT 11
-#define WIFI_SSID "IPhone"
-#define WIFI_PASSWORD "oscar123"
-#define BOT_TOKEN "7014217044:AAGpxapbErsnqhQQe7CshxP3arFJPEahhas"
-#define CHAT_ID "1509245603"
+#define WIFI_SSID "WiFi SSID"
+#define WIFI_PASSWORD "contraseña WiFi"
+#define BOT_TOKEN "api"
+#define CHAT_ID "codigo"
 
 #define VENTILADOR_PIN 12 // Pin para controlar el ventilador
 #define BOMBA_AGUA_PIN 13 // Pin para controlar la bomba de agua
