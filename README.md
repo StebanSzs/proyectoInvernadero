@@ -17,14 +17,6 @@ El proyecto consiste en un sistema de invernadero IoT diseñado para el cuidado 
 
 El sistema permite monitorear constantemente las condiciones ambientales dentro del invernadero y realizar acciones automáticas según sea necesario para garantizar un entorno óptimo para el crecimiento de las plantas de frijol.
 
-## Autores
-
-Este proyecto fue realizado por:
-
-- **Nicolas Rios**
-- **Oscar Arias**
-- **Esteban Bravo**
-
 ## Contenido
 
 El repositorio está organizado de la siguiente manera:
